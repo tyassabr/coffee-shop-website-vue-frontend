@@ -16,5 +16,3 @@
 ## Add Item
 ![add-item](https://user-images.githubusercontent.com/72489449/104854791-53df0780-593b-11eb-99c1-0ab5fb657951.JPG)
 
-## Modal Checkout
-![checkout-modal](https://user-images.githubusercontent.com/72489449/104854812-6fe2a900-593b-11eb-98ee-3fd453bef04a.JPG)
